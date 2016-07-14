@@ -14,6 +14,7 @@ source "$SCRIPTDIR/util.sh"
 
 echo Installing open catalog
 
+
 runPackageInstallScript "$SCRIPTDIR" installSystem.sh
 runPackageInstallScript "$SCRIPTDIR" installGit.sh
 runPackageInstallScript "$SCRIPTDIR" installSlack.sh
