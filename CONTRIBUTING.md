@@ -1,5 +1,6 @@
 # Contributing to OpenWhisk catalog
 
+
 We welcome contributions, but request you to follow these guidelines.
 
  - [Raising issues](#raising-issues)
