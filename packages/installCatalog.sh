@@ -64,6 +64,8 @@ runPackageInstallScript "$SCRIPTDIR" installSlack.sh
 runPackageInstallScript "$SCRIPTDIR" installWatson.sh
 runPackageInstallScript "$SCRIPTDIR" installWeather.sh
 runPackageInstallScript "$SCRIPTDIR" installWebSocket.sh
+runPackageInstallScript "$SCRIPTDIR" installCloudant.sh
+runPackageInstallScript "$SCRIPTDIR" installAlarms.sh
 
 waitForAll
 
